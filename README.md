@@ -60,12 +60,13 @@ CodeMate.AI/
 <!-- Insert screenshots below -->
 
 ### 💬 Chat Interface
+<img width="1440" alt="Screenshot 2025-06-24 at 12 53 27 PM" src="https://github.com/user-attachments/assets/1ff32fb8-e87e-4299-a144-5bfd2fbbc693" />
 
-![Chat UI](./screenshots/chat-ui.png)
+
 
 ### 📎 File Attachment with @filename
 
-![File Attachment](./screenshots/file-attach.png)
+<img width="1440" alt="Screenshot 2025-06-24 at 12 53 34 PM" src="https://github.com/user-attachments/assets/6d65d03a-af07-4f17-99ff-1ae6cd2401b7" />
 
 ---
 
@@ -103,28 +104,11 @@ GEMINI_API_KEY=your-gemini-api-key-here
 ## 🙋 About the Developer
 
 * **👨‍💻 Name:** Jay Chinche
-* **📱 Mobile:** +91 75583 82230
+* **📱 Mobile:** +91 7558382230
 * **📧 Email:** [chinchejay@gmail.com](mailto:chinchejay@gmail.com)
 * **🌐 GitHub:** [github.com/jaychinche](https://github.com/jaychinche)
 
----
 
-## 📃 License
 
-This project is licensed under the [MIT License](./LICENSE).
 
----
 
-> ✨ Built with passion and AI.
-
-```
-
----
-
-Let me know if you’d like me to:
-- Generate a basic logo/icon for CodeMate.AI  
-- Help insert the screenshots or polish the UI text  
-- Create a `.vsix` installer file for direct installation
-
-You're all set to impress 🚀
-```
